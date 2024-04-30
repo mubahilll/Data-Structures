@@ -24,6 +24,12 @@ This repository contains implementations of various data structures in C++.
 
 7. **stacks_template.cpp**: Implements a stack data structure using templates.
    - Provides functionalities like push, pop, peek, isEmpty, sizeStack, and display.
+
+8. **selection_sort.cpp**: This program implements the selection sort algorithm.
+   - It generates a list of random numbers, sorts them using selection sort, and writes the sorted list into a file named `sorted.txt`.
+
+9. **merge_sort.cpp**: This program implements the merge sort algorithm.
+   - It generates a list of random numbers, sorts them using merge sort, and writes the sorted list into a file named `m_sort.txt`.
 ## Usage
 
 Each `.cpp` file can be compiled and executed individually to see the functionalities of the implemented data structures. Simply compile using a C++ compiler and run the executable.

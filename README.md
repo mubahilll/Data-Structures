@@ -30,6 +30,22 @@ This repository contains implementations of various data structures in C++.
 
 9. **merge_sort.cpp**: This program implements the merge sort algorithm.
    - It generates a list of random numbers, sorts them using merge sort, and writes the sorted list into a file named `m_sort.txt`.
+
+10. **avl_tree.cpp**: This program implements an AVL tree, a self-balancing binary search tree.
+   - It allows insertion, deletion, and searching operations on the AVL tree.
+   - The tree can be traversed using various traversal methods such as pre-order, in-order, post-order, and level-order traversal.
+   - Additionally, it provides functionality to print the AVL tree in a 2D format.
+
+11. **binary_search_tree**: This program implements a basic binary search tree (BST) data structure.
+   - It allows insertion, deletion, searching, and minimum finding operations on the BST.
+   - The program also demonstrates in-order traversal of the binary search tree.
+
+12. **queue.cpp**: This program implements a queue data structure using a linked list.
+   - It provides functionality for enqueue, dequeue, and checking if the queue is empty.
+
+13. **queue_array.cpp**: This program implements a queue data structure using an array.
+   - It provides functionality for enqueue, dequeue, checking if the queue is empty or full, and accessing the front element.
+
 ## Usage
 
 Each `.cpp` file can be compiled and executed individually to see the functionalities of the implemented data structures. Simply compile using a C++ compiler and run the executable.

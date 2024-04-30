@@ -18,7 +18,12 @@ This repository contains implementations of various data structures in C++.
 
 5. **singlelinklist.cpp**: Implements a singly linked list data structure.
    - Provides functionalities like insertion at head, tail, any position, removal from head, tail, specific node, printing, and traversal.
+     
+6. **stacks_using_link_list.cpp**: Implements a stack data structure using a linked list.
+   - Provides functionalities like push, pop, peek, isEmpty, sizeStack, and display.
 
+7. **stacks_template.cpp**: Implements a stack data structure using templates.
+   - Provides functionalities like push, pop, peek, isEmpty, sizeStack, and display.
 ## Usage
 
 Each `.cpp` file can be compiled and executed individually to see the functionalities of the implemented data structures. Simply compile using a C++ compiler and run the executable.
